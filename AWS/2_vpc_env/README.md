@@ -27,4 +27,4 @@ This Terraform project provisions a secure and scalable networking setup in AWS.
 - Deploy backend or sensitive services (e.g., databases, APIs) in private subnet.
 
 ## Architechture
-
+![Task_Diagram](image/image.png)
