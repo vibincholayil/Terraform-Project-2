@@ -26,9 +26,5 @@ This Terraform project provisions a secure and scalable networking setup in AWS.
 - Deploy public-facing services (e.g., web servers) in public subnet.
 - Deploy backend or sensitive services (e.g., databases, APIs) in private subnet.
 
-## Getting Started
-
-1. Initialize Terraform:
-   ```bash
-   terraform init
+## Architechture
 
