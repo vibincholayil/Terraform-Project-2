@@ -28,3 +28,7 @@ This Terraform project provisions a secure and scalable networking setup in AWS.
 
 ## Architechture
 ![Task_Diagram](image/image.png)
+
+
+## Output
+![Output](image/output.png)
