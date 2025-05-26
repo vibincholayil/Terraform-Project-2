@@ -1,7 +1,7 @@
-resource "aws_vpc" "myvpc" {
+resource "aws_vpc" "vibin_vpc" {
     cidr_block = var.vpc_cidr
 
     tags = {
-        Name = vibin_vpc
+     Name = "vibin_vpc"
     }
 }

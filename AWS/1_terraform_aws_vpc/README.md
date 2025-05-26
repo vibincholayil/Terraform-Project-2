@@ -9,3 +9,5 @@ Create a secure VPC environment in AWS using Terraform. It includes:
 - Route tables for internet access (via IGW for public, via NAT for private)
 
 
+
+
